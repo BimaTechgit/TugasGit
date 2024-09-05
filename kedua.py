@@ -1,1 +1,1 @@
-print("hallo 2")
+print("hallo 2, ini adalah tugas pull")
