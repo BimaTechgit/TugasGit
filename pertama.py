@@ -1,1 +1,1 @@
-print("hallo 1")
+print("hallo 1, ini tugas fetch")
